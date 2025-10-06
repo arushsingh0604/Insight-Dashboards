@@ -66,12 +66,8 @@ The dashboard is organized into several sections, each providing a unique view o
 
 ## 📸 Screenshots
 
-***It is highly recommended to add screenshots or even a short GIF of your dashboard in action here! This will significantly improve the presentation of your project.***
-
-*Example:*
-
-[Dashboard View]<img width="1524" height="623" alt="Screenshot 2025-10-06 092959" src="https://github.com/user-attachments/assets/116eaac6-10b8-47dd-9f28-28d15e4ba9a4" />
-*Caption: Main dashboard view showing KPI cards and interactive slicers.*
+***Main dashboard view showing KPI cards and interactive slicers.***<img width="1524" height="623" alt="Screenshot 2025-10-06 092959" src="https://github.com/user-attachments/assets/116eaac6-10b8-47dd-9f28-28d15e4ba9a4" />
+*
 
 
 
