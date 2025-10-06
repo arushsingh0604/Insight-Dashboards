@@ -68,7 +68,8 @@ The dashboard is organized into several sections, each providing a unique view o
 
 ***Main dashboard view showing KPI cards and interactive slicers.***<img width="1524" height="623" alt="Screenshot 2025-10-06 092959" src="https://github.com/user-attachments/assets/116eaac6-10b8-47dd-9f28-28d15e4ba9a4" />
 
-***Pivot Tables Analyzing Sales Based On Specific Metrics***<img width="980" height="640" alt="Screenshot 2025-10-06 093627" src="https://github.com/user-attachments/assets/cf4785d8-0016-4ee1-ab85-de66e58c5c51" />
+***Pivot Tables Analyzing Sales Based On Specific Metrics***<img width="1343" height="710" alt="Screenshot 2025-10-06 093909" src="https://github.com/user-attachments/assets/c552c651-6998-4705-b3d9-8c73eef0da93" />
+
 
 
 
